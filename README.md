@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! 😎
+- Maths graduate looking to step into the world of Data Analytics 📈
+- Currently : Completing the Google Data Analytics Course (Excel, SQL, Tableau, Python) 📚
+- If you're interested in reaching out, or need an extra pair of hands for a project, don't hesitate to contact me at thomasridleyhatton@icloud.com 🤝
+- Can be lured into any conversation about DnD 🎲
+
 
 <!--
 **Tom-Hatton03/Tom-Hatton03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
